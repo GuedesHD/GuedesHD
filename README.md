@@ -1,3 +1,3 @@
 - 👋 Olá, meu nome é João Guedes.
-- 🔢 Tenho 21 anos.
+- 🔢 Tenho 22 anos.
 - 👀 Procuro sempre em saber mais.
