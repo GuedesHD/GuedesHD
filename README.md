@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Guedes</h1>
-<h3 align="center">Developer and Configurator in Portugal</h3>
+<h3 align="center">Developer in Portugal</h3>
 
 - 🔭 I’m currently working on [NextWave | Roleplay](https://discord.gg/9jnEwtzbrN)
 
